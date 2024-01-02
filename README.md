@@ -3,7 +3,7 @@
 
 # Introduction
 
-The main objective of the analysis is to visualize the number of confirmed Covid-19 cases,death and recovered cases across the world.A new coronavirus designated 2019-nCoV was first identified in Wuhan, the capital of China.The virus has shown evidence of human-to-human transmission.Transmission rate (rate of infection) appeared to escalate in mid-January 2020.This visualization helps to find the count of Covid-19 cases.
+The main objective of the analysis is to visualize the number of confirmed Covid-19 cases,death and recovered cases across the world.Through meaningful visual representation ,we aim to unravel patterns,trends,and metrics inherent in the data.The Covid-19 dataset encapsulates a vast array of information including total cases,recoveries,deathsnand more.And provide valuable insights into the pandemic's impact on various region.
 
 # Objective
 
@@ -11,4 +11,14 @@ The main objective of the analysis is to visualize the number of confirmed Covid
 
 # Data Source
 
-The Covid-19 datset is a well-known dataset that contains the number of confirmed cases,death and recovered cases across the world.The dataset is widely used in the data science community as a benchmark dataset for classification modeling and predictive analysis.This dataset for this study was obtained from Kaagle and can be downloaded from (https://www.kaggle.com/datasets/imdevskp/corona-virus-report?resource=download&select=day_wise.csv)
+The Covid-19 datset is a well-known dataset that contains the number of confirmed cases,death and recovered cases across the world.The dataset is widely used in the data science community as a benchmark dataset for classification modeling and predictive analysis.This dataset for this study was obtained from Kaagle and can be downloaded from https://www.kaggle.com/datasets/imdevskp/corona-virus-report?resource=download&select=day_wise.csv
+
+# Dashboard
+
+
+
+
+
+# Conclusion
+
+This analysis of the Covid-19 dataset examining the trend of cases,recoveries,and deaths across the world.These findings provide valuable insights into the pandemic's impact on various region.The cleaned and analyzed dataset can be used for further analysis and modeling to gain a deeper understanding of the Covid-19 pandemic.
