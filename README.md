@@ -1,6 +1,6 @@
 # COVID-19-Dataset-Visualization
  This is a repository for Covid-19 data analysis with Power Bi dashboard and other related files.It provide a comprehensive and insightful visualization of Covid-19 dataset.
-
+https://github.com/nishnafinu/COVID-19-Dataset-Visualization/blob/main/Covid_19.jpg
 # Introduction
 
 The main objective of the analysis is to visualize the number of confirmed Covid-19 cases,death and recovered cases across the world.Through meaningful visual representation ,we aim to unravel patterns,trends,and metrics inherent in the data.The Covid-19 dataset encapsulates a vast array of information including total cases,recoveries,deathsnand more.And provide valuable insights into the pandemic's impact on various region.
